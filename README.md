@@ -25,7 +25,7 @@ I build Discord bots and the tooling around them. Most of what I ship lives insi
 
 <img src="./partners.svg" width="620" alt="partner"/>
 
-• Kabir Shaikh - A genius ***Architecture**, he plans and I write, just like a writer and a poet.
+• Kabir Shaikh - A genius ***Architecture***; he plans and I write, just like a writer and a poet.
 
 [ Discord ] [ Instagram ]
 
