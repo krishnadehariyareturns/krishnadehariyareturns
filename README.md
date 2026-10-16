@@ -27,7 +27,13 @@ I build Discord bots and the tooling around them. Most of what I ship lives insi
 
 • Kabir Shaikh - A genius ***Architecture***; he plans and I write, just like a writer and a poet.
 
-[ Discord ] [ Instagram ]
+<a href="https://discord.com/users/1333527267216986162">
+  <text x="0" y="18"
+        font-family="JBMono, monospace"
+        font-size="16"
+        font-weight="600"
+        fill="#6e7681">[ Discord ]</text>
+</a> [ Instagram ]
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
