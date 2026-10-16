@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Aegis"/>
+<img src="./Basu.svg" width="460" alt="bash"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
