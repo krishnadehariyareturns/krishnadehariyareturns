@@ -11,7 +11,7 @@
 
 </div>
 
-<img src="./hd-about.svg" width="620" alt="about"/>
+<img src="./hd-about.svg" width="620" alt="About-Me"/>
 
 > Student developer. Founder of [AeroX](https://discord.gg/aerox), a dev community<br>
 > built around the process of turning ideas into real things.
