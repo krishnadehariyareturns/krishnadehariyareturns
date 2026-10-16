@@ -21,7 +21,13 @@ I build Discord bots and the tooling around them. Most of what I ship lives insi
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>javascript &nbsp; typescript &nbsp; discord.js &nbsp; node &nbsp; python &nbsp; mongodb &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>javascript &nbsp; typescript &nbsp; discord.js &nbsp; node &nbsp; python &nbsp; docker &nbsp; git &nbsp; linux</samp>
+
+<img src="./partners.svg" width="620" alt="partner"/>
+
+• Kabir Shaikh - A genius ***Architecture**, he plans and I write, just like a writer and a poet.
+
+[ Discord ] [ Instagram ]
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
