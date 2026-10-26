@@ -7,7 +7,7 @@
 [maybelinuxo.kdns.fr](maybelinuxo.kdns.fr) &nbsp;·&nbsp;
 [discord](https://discord.gg/BrDDA5Dkf) &nbsp;·&nbsp;
 [youtube](https://youtube.com/@aeroxdevs) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/aeroxdevs)
+[instagram](https://www.instagram.com/basu.lol?obrf=ZTFtbXB2eGR0dm8x)
 
 </div>
 
