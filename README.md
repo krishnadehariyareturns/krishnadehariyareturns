@@ -4,8 +4,8 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[maybelinuxo.kdns.fr](https://itsfizys.gg) &nbsp;·&nbsp;
-[discord](https://discord.gg/aerox) &nbsp;·&nbsp;
+[maybelinuxo.kdns.fr](maybelinuxo.kdns.fr) &nbsp;·&nbsp;
+[discord](https://discord.gg/BrDDA5Dkf) &nbsp;·&nbsp;
 [youtube](https://youtube.com/@aeroxdevs) &nbsp;·&nbsp;
 [instagram](https://www.instagram.com/aeroxdevs)
 
