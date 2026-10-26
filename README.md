@@ -42,6 +42,9 @@ I build Discord bots sometimes and the tools around them.
 </a>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
+[Linuxo](https://github.com/krishnadehariyareturns/Linuxo-Is-On) A Linux based project on moderation and the one I am focusing.
+
+[SahidAI](https://github.com/krishnadehariyareturns/Katabump-SahidAI) A lost project, I dont wanna talk about it
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
