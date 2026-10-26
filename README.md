@@ -13,11 +13,10 @@
 
 <img src="./hd-about.svg" width="620" alt="About-Me"/>
 
-> Student developer. Founder of [AeroX](https://discord.gg/aerox), a dev community<br>
+> Student NODEJS developer. Founder of [Linuxo](https://discord.gg/BrDDA5Dkf), a dev community<br>
 > built around the process of turning ideas into real things.
 
-I build Discord bots and the tooling around them. Most of what I ship lives inside<br>
-[AeroX Development](https://github.com/AeroXDevs), 7k+ members, from concept to commit.<br>
+I build Discord bots sometimes and the tools around them.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
@@ -36,22 +35,6 @@ I build Discord bots and the tooling around them. Most of what I ship lives insi
 </a> [ Instagram ]
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
-
-**[AeroX-CV2-Music-Bot](https://github.com/itsfizys/AeroX-CV2-Music-Bot)** &nbsp;·&nbsp; <samp>javascript, discord.js</samp><br>
-Music bot built on Discord's Components V2. The flagship bot of AeroX,<br>
-22 stars, 33 forks, and actively maintained.
-
-**[piccdn](https://github.com/itsfizys/piccdn)** &nbsp;·&nbsp; <samp>typescript, rawgithubapi</samp><br>
-A clean, api containing images of multiple categories to use in your project <br>
-in minutes, no boilerplate fighting required.
-
-**[animequotescdn](https://github.com/itsfizys/animequotescdn)** &nbsp;·&nbsp; <samp>javascript, html</samp><br>
-A web api to generate anime quote cards containing over 8000 quotes,<br>
-clean architecture, ready to scale.
-
-**[minecraft-dev-guide](https://github.com/itsfizys/minecraft-dev-guide)** &nbsp;·&nbsp; <samp>java, glsl</samp><br>
-Everything Minecraft development in one place: Paper plugins, Forge and<br>
-Fabric mods, shaders, OpenGL/GLSL, and the full plugin ecosystem.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
