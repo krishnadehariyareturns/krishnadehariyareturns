@@ -32,7 +32,14 @@ I build Discord bots sometimes and the tools around them.
         font-size="16"
         font-weight="600"
         fill="#6e7681">[ Discord ]</text>
-</a> [ Instagram ]
+</a>
+<a href="https://www.instagram.com/ig.k4birr?cplk=MWI3eHp2ZDFheGNteA==">
+  <text x="0" y="18"
+        font-family="JBMono, monospace"
+        font-size="16"
+        font-weight="600"
+        fill="#6e7681">[ Instagram ]</text>
+</a>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
